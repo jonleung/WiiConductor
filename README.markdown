@@ -459,3 +459,15 @@ My email can be found on [jonathanjl.com](http://jonathanjl.com)
 * Use the Nunchuck to cue tracks in Garage Band
 * Change the PrintWriter to an Object Stream
 * Your cool creative idea!
+
+## Contributors
+
+1. Initial WiiRemoteJ API developed by Michael Diamond.
+2. The pre-alpha version of the conducting code without the server receiver
+separation was developed during the TechCrunch Disrupt Hackathon from 05/21/11 - 05-22/11 by:
+	* Andrew Braunstein
+	* Benjamin Shyong
+	* Chase Lambert
+	* Jonathan Leung
+3. The Server Receiver integration along with code cleanup and additional developments
+to the conducting code were made by Jonathan Leung and submitted on 06/06/11.
